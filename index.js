@@ -2,6 +2,10 @@
  * Given a set of N objects.
  * Union command: connect two objects.
  * Find/connected query: is there a path connecting the two objects?
+ * 
+ * 0--1--2  3--4
+ * |  |  |  |  |
+ * 5--6  7  8  9
  */
 
 function union() {
